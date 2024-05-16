@@ -1,0 +1,10 @@
+/Assets
+/Debug
+/Release
+/Win
+/x64
+*.jpg
+*.png
+*.bmp
+v1dx11rr.*
+*.obj
