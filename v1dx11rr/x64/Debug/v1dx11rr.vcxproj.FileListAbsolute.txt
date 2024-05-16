@@ -1,0 +1,6 @@
+C:\Users\52811\Downloads\TerrenoSkyBillModGC2\TerrenoSkyBillModGC2\x64\Debug\Billboard.cso
+C:\Users\52811\Downloads\TerrenoSkyBillModGC2\TerrenoSkyBillModGC2\x64\Debug\Modelo.cso
+D:\Descargas\Chrome 2\Proyecto GCII\TerrenoSkyBillModGC2\x64\Debug\Billboard.cso
+D:\Descargas\Chrome 2\Proyecto GCII\TerrenoSkyBillModGC2\x64\Debug\Modelo.cso
+C:\Users\medra\Desktop\TerrenoSkyBillModGC2\x64\Debug\Billboard.cso
+C:\Users\medra\Desktop\TerrenoSkyBillModGC2\x64\Debug\Modelo.cso
